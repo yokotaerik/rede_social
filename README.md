@@ -2,6 +2,11 @@
 
 Yomaik é uma aplicação de rede social desenvolvida com o objetivo de proporcionar uma experiência interativa para os usuários compartilharem pensamentos, postarem atualizações e se conectarem uns com os outros. O projeto foi inspirado em plataformas de microblogging como o Twitter.
 
+
+# Video demonstrativo
+
+https://github.com/yokotaerik/rede_social/assets/142221764/e264a72e-9c96-41dd-b427-dd9e78a0fc8b
+
 ## Motivação
 
 A principal motivação por trás do desenvolvimento do Yomaik foi aprofundar conhecimentos em Spring e Java colocando meus conhecimentos em prática sendo minha priemira aplicalação desenvolvida nessa tecnologia, explorando também a utilização do MongoDB como um banco de dados NoSQL. A busca por uma compreensão mais profunda dessas tecnologias impulsionou a criação desta plataforma de rede social.
@@ -49,4 +54,7 @@ A principal motivação por trás do desenvolvimento do Yomaik foi aprofundar co
   - Biblioteca para fazer requisições HTTP ao backend.
 - **Tailwind:**
   - Para estilização das páginas.
+  
+
+
 
