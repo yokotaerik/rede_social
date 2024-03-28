@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/yokotaerik/rede_social_api
+[submodule "front_end"]
+	path = front_end
+	url = https://github.com/yokotaerik/rede_social_frontend
